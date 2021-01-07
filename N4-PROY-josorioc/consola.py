@@ -3,7 +3,7 @@ Proyecto N4
 @author: j.osorioc@uniandes.edu.co
 """
 
-import contratos as con
+import contratos_terminal as con
 
 #Se importa pandas para mostrar que ejecutar_cargar_datos retorna un DataFrame y que algunas funciones reciben un DataFrame.
 import pandas as pd
