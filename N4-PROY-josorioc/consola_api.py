@@ -642,4 +642,4 @@ async def iniciar_apliacion(ctx):
 
 
 #Pasar el token
-client.run('Nzg4MjQ3OTE4OTIyNTYzNTg0.X9gvFA.gHO70Uq5ICWoEbDG9P8bA3HONsY')
+client.run()#Toca ingresar el token como str
